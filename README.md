@@ -119,8 +119,8 @@ requests
 python-dotenv
 ```
 
----
 
+<<<<<<< HEAD
 ## 👨‍💻 Author
 
 **Ankur Upadhyay**
