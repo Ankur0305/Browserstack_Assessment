@@ -1,10 +1,10 @@
-# 🧪 BrowserStack Automation Assignment
+#  BrowserStack Assessment
 
-This project demonstrates web scraping, text translation via Rapid Translate Multi Traduction API, word frequency analysis, and cross-browser testing using Selenium + Python and BrowserStack.
+This project demonstrates web scraping, text translation via Rapid Translate Multi Traduction API, word frequency analysis, and cross-browser testing using Selenium , Python and BrowserStack.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 1. Visit [El País – Opinion Section](https://elpais.com/opinion/)
 2. Scrape:
@@ -28,18 +28,18 @@ This project demonstrates web scraping, text translation via Rapid Translate Mul
 Browserstack_CE_assignment/
 ├── .env                   # Stores credentials (not pushed to GitHub)
 ├── .gitignore             # Ignores .env, __pycache__, etc.
-├── README.md              # This file
+├── README.md             
 ├── requirements.txt       # Dependencies
 ├── main.py                # Runs local scraping + translation
 ├── scrape.py              # Scraper function (with image saving)
 ├── translate.py           # Single-call translation logic
 ├── browserstack_test.py   # Parallel test run across 5 devices via BrowserStack
-└── images/                # Folder auto-created to store article cover images
+└── images/                
 ```
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1️⃣ Clone & Navigate
 
@@ -95,14 +95,6 @@ python main.py
 python browserstack_test.py
 ```
 
-Runs the same test in parallel on:
-
-- ✅ Chrome – Windows 10
-- ✅ Firefox – Windows 10
-- ✅ Safari – macOS
-- ✅ Chrome – Android (Samsung Galaxy S22)
-- ✅ Safari – iPhone 13
-
 ---
 
 ## 🔐 API & Testing Info
@@ -131,9 +123,9 @@ python-dotenv
 
 ## 👨‍💻 Author
 
-**Shubham Kumar**
+**Ankur Upadhyay**
 
 ```
-Email: shubham.kr7519@gmail.com 
-LinkedIn: www.linkedin.com/in/shubham-kumar-37147a17a
-```
+Email: ankurupadhyay325@gmail.com 
+LinkedIn: https://www.linkedin.com/in/ankur-upadhyay-30a497235/?originalSubdomain=in
+``` 
