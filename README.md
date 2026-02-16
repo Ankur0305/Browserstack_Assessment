@@ -44,7 +44,6 @@ Browserstack_CE_assignment/
 ### 1️⃣ Clone & Navigate
 
 ```bash
-git clone https://github.com/shubhamkr7519/Browserstack_CE_assignment.git
 cd Browserstack_CE_assignment
 ```
 
